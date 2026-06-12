@@ -1,16 +1,24 @@
-# Performance-Optimization-Efficiency-Analysis
+# Performance Optimization & Efficiency Analysis: 5 Major European Football Leagues
 
-# Proyek Analisis Data: Performa Pemain Sepak Bola 2020/2021
-
-## 1. Latar Belakang
-Analisis ini bertujuan untuk mengevaluasi efisiensi pemain di 5 liga top Eropa.
+## 1. Deskripsi Proyek
+Proyek ini merupakan analisis data *end-to-end* yang mengevaluasi efisiensi dan performa pemain sepak bola di lima liga top Eropa (EPL, La Liga, Serie A, Bundesliga, Ligue 1) pada musim 2020/2021. Proyek ini bertujuan untuk mengubah data statistik mentah menjadi wawasan bisnis yang dapat ditindaklanjuti, seperti identifikasi pemain paling efisien (*high-conversion*) dan perbandingan performa antar liga.
 
 ## 2. Metodologi
-- **Tools:** Python (Pandas), Google Colab, Looker Studio.
-- **Process:** Data Cleaning, Window Functions, dan Feature Engineering (Conversion Rate).
+Analisis dilakukan dengan alur kerja yang terstruktur:
+* **Tools:** Python (Pandas, Matplotlib, Seaborn), Google Colab, Looker Studio.
+* **Process:** 
+    * **Data Wrangling:** Menggabungkan multi-dataset menjadi satu *master dataframe* dan melakukan pembersihan data (*data cleaning*).
+    * **Feature Engineering:** Membuat metrik baru seperti *Conversion Rate* (Gol/Tembakan) untuk mengukur efisiensi individu.
+    * **SQL Logic Simulation:** Menerapkan konsep *Window Functions* (seperti `RANK()`) melalui Pandas untuk segmentasi performa pemain.
 
-## 3. Temuan Utama
-- [Sebutkan 1 insight menarik dari data]
+## 3. Insight Utama (Contoh Hasil Analisis)
+Berdasarkan hasil analisis data, berikut adalah temuan kuncinya:
+* **Efisiensi vs Volume:** Terdapat korelasi yang menarik antara jumlah tembakan dan tingkat konversi gol. Pemain dengan volume tembakan tinggi tidak selalu memiliki efisiensi konversi tertinggi, yang mengindikasikan perbedaan kualitas dalam pengambilan keputusan di depan gawang.
+* **Dominasi Liga:** Hasil visualisasi menunjukkan perbedaan karakteristik gaya bermain dan efisiensi rata-rata antar liga, yang memberikan gambaran mengenai intensitas kompetisi yang berbeda.
 
-## 4. Dashboard
-Lihat visualisasi interaktif di sini: [Link Looker Studio-mu]
+## 4. Dashboard Interaktif
+Visualisasi lengkap dapat diakses melalui Looker Studio untuk eksplorasi lebih dalam:
+👉 **[Klik di sini untuk melihat Dashboard Analitik]** *(Ganti dengan link kamu)*
+
+## 5. Hubungi Saya
+Jika Anda memiliki pertanyaan mengenai metodologi atau ingin mendiskusikan temuan ini lebih lanjut, jangan ragu untuk menghubungi saya melalui LinkedIn.
