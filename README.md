@@ -15,10 +15,3 @@ Analisis dilakukan dengan alur kerja yang terstruktur:
 Berdasarkan hasil analisis data, berikut adalah temuan kuncinya:
 * **Efisiensi vs Volume:** Terdapat korelasi yang menarik antara jumlah tembakan dan tingkat konversi gol. Pemain dengan volume tembakan tinggi tidak selalu memiliki efisiensi konversi tertinggi, yang mengindikasikan perbedaan kualitas dalam pengambilan keputusan di depan gawang.
 * **Dominasi Liga:** Hasil visualisasi menunjukkan perbedaan karakteristik gaya bermain dan efisiensi rata-rata antar liga, yang memberikan gambaran mengenai intensitas kompetisi yang berbeda.
-
-## 4. Dashboard Interaktif
-Visualisasi lengkap dapat diakses melalui Looker Studio untuk eksplorasi lebih dalam:
-👉 **[Klik di sini untuk melihat Dashboard Analitik]** *(Ganti dengan link kamu)*
-
-## 5. Hubungi Saya
-Jika Anda memiliki pertanyaan mengenai metodologi atau ingin mendiskusikan temuan ini lebih lanjut, jangan ragu untuk menghubungi saya melalui LinkedIn.
